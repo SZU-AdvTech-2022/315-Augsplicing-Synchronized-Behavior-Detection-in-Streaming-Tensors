@@ -1,0 +1,9 @@
+@inproceedings{REPO-316,
+    author = "Zhang, Jiabao and Liu, Shenghua and Hou, Wenting and Bhatia, Siddharth and Shen, Huawei and Yu, Wenjian and Cheng, Xueqi",
+    booktitle = "Proceedings of the AAAI Conference on Artificial Intelligence",
+    number = "5",
+    pages = "4653--4661",
+    title = "{AugSplicing: Synchronized Behavior Detection in Streaming Tensors}",
+    volume = "35",
+    year = "2021"
+}
